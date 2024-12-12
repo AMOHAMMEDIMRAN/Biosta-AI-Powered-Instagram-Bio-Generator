@@ -34,7 +34,7 @@ const Biosta = () => {
             {
               parts: [
                 {
-                  text: `Generate an engaging Instagram bio for someone passionate about creativity, collaboration, and personal growth. The bio should feel modern, approachable, and inspiring. Not more than 150 characters.not in one line by line "${keywords}"`,
+                  text: `Generate a short, engaging Instagram bio for someone passionate about creativity, collaboration, and personal growth. The bio should be modern, approachable, and inspiring, with a maximum length of 150 characters. Use multiple lines to format the bio. Incorporate the following keywords provided by the user "${keywords}"`,
                 },
               ],
             },
