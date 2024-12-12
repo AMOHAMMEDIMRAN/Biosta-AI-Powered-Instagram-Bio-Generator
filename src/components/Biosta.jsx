@@ -34,7 +34,7 @@ const Biosta = () => {
             {
               parts: [
                 {
-                  text: keywords,
+                  text: `Generate a short, engaging Instagram bio for someone passionate about creativity, collaboration, and personal growth. The bio should be modern, approachable, and inspiring, with a maximum length of 150 characters. Use multiple lines to format the bio. Incorporate the following keywords provided by the user "${keywords}"`,
                 },
               ],
             },
