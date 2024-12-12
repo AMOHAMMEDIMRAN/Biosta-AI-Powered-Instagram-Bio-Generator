@@ -16,7 +16,7 @@ const Navbar = () => {
               <div className="sm:flex sm:gap-4">
                 <a
                   className="inline-flex items-center gap-3 rounded-md bg-[#1E3A5F] font-outfit px-5 py-2.5 text-sm font-medium text-white transition hover:bg-[#90CAF9]"
-                  href=""
+                  href="https://www.instagram.com/immucoder?igsh=MWV0M2N1bXdrd3J4OQ=="
                 >
                   Developer { <FaUserCog size={15} /> }
                 </a>
