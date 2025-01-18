@@ -2,7 +2,7 @@
 
 Biosta is an innovative tool that uses AI to create unique and personalized Instagram bios. Simply input a few keywords, and Biosta generates bios that perfectly reflect your personality, interests, or brand.  
 
-🚀 **[Live Demo](https://your-project-demo-link.com)**  
+🚀 **[Live Demo](https://biosta.netlify.app/)**  
 
 ---
 
